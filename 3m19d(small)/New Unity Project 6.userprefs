@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerMove.cs">
+    <Files>
+      <File FileName="Assets\Script\PlayerMove.cs" Line="72" Column="27" />
+      <File FileName="..\..\Desktop\UnityStudy\mingoo5test\Assets\Sources\BombProcess.cs" Line="1" Column="1" />
+      <File FileName="..\..\Desktop\UnityStudy\mingoo5test\Assets\Sources\CharacterMove.cs" Line="1" Column="1" />
+      <File FileName="..\..\Desktop\UnityStudy\mingoo5test\Assets\Sources\FireManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\Desktop\UnityStudy\mingoo5test\Assets\Sources\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="..\..\Desktop\UnityStudy\mingoo5test\Assets\Sources\SpiderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

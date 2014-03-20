@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerRotationMove.cs">
+    <Files>
+      <File FileName="Assets\Script\PlayerRotationMove.cs" Line="7" Column="32" />
+      <File FileName="Assets\Script\PlayerMove.cs" Line="165" Column="56" />
+      <File FileName="Assets\Script\CubeMove.cs" Line="8" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
