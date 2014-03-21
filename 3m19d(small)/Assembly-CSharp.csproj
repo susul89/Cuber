@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{57321227-5001-110F-9774-28919D2399B4}</ProjectGuid>
+	<ProjectGuid>{7961F2C2-6DB9-7FC9-B463-FA466411E504}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -48,17 +48,18 @@
   <ItemGroup>
      <Compile Include="Assets\Script\AudioManager.cs" />
      <Compile Include="Assets\Script\CubeMove.cs" />
+     <Compile Include="Assets\Script\DoorOpen.cs" />
      <Compile Include="Assets\Script\MouseLook.cs" />
      <Compile Include="Assets\Script\PlayerMove.cs" />
      <Compile Include="Assets\Script\PlayerRotationMove.cs" />
+     <Compile Include="Assets\Script\RDoorOpen.cs" />
      <None Include="Assets\Standard Assets\Glass Refraction (Pro Only)\Sources\Shaders\Glass-Stained-BumpDistort.shader" />
-     <None Include="Assets\Audio\Dark Future\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{1B33B74A-6E36-1129-3BA7-A499E6E1E6AB}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{FA4D639A-8379-873C-FDF5-2C91CD48C52A}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{6D46F29E-9072-7FB8-795E-693788088837}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{233FFA29-2AD5-EDD0-55AF-E46F6D5056F6}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
